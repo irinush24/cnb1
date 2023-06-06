@@ -672,6 +672,11 @@ video {
   margin-right: 2.5rem;
 }
 
+.mx-2{
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
 .my-1{
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
@@ -1385,6 +1390,10 @@ video {
 
 .pb-5{
   padding-bottom: 1.25rem;
+}
+
+.pb-7{
+  padding-bottom: 1.75rem;
 }
 
 .pb-9{
