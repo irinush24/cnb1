@@ -1039,6 +1039,10 @@ video {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
+.grid-cols-3{
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
 .grid-rows-5{
   grid-template-rows: repeat(5, minmax(0, 1fr));
 }
@@ -1132,6 +1136,10 @@ video {
 
 .self-center{
   align-self: center;
+}
+
+.justify-self-end{
+  justify-self: end;
 }
 
 .overflow-hidden{
